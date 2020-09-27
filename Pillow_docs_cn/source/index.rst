@@ -10,6 +10,7 @@
    :maxdepth: 2
 
    hello.rst
+   contents.rst
 
 
 
