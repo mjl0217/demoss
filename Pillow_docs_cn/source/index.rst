@@ -8,9 +8,9 @@
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   hello.rst
-   contents.rst
+   *
 
 
 
