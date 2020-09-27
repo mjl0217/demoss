@@ -7,6 +7,8 @@
    :maxdepth: 2
 
     manual.rst
+    contents.rst
 
+:ref:`<manual>`
 
 
