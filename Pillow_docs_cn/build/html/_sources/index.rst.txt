@@ -9,6 +9,6 @@
     manual.rst
     contents.rst
 
-:ref:`<manual>`
+:ref:`构建 <manual>`
 
 
